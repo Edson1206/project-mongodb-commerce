@@ -1,1 +1,1 @@
-debugger.
+db.produtos.countDocuments({});
